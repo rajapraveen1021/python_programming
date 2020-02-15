@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47a1f4e3-2d0e-45b0-8700-85872edb15f4" name="Default Changelist" comment="" />
+    <list default="true" id="47a1f4e3-2d0e-45b0-8700-85872edb15f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,25 @@
       <option name="presentableId" value="Default" />
       <updated>1581748746210</updated>
     </task>
+    <task id="LOCAL-00001" summary="Plan until May- Cretaed basic folders">
+      <created>1581749373351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581749373351</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PLn until May- Cretaed basic folders" />
+    <MESSAGE value="Plan until May- Cretaed basic folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Plan until May- Cretaed basic folders" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="24" width="900" height="743" key="CommitChangelistDialog2" timestamp="1581749372984">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="233" y="24" width="900" height="743" key="CommitChangelistDialog2/0.24.1366.744@0.24.1366.744" timestamp="1581749372984" />
   </component>
 </project>
